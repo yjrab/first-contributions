@@ -425,6 +425,7 @@
 - [Summer Babel](https://github.com/sumerbabel)
 - [Kunal Virk](https://github.com/kunalvirk)
 - [Subham Thapa](https://github.com/WhimsicalWizard)
+- [Itai Melnik](https://github.com/itai-melnik)
 - just-now
 - [Shubh Panwala](https://github.com/shubhpanwala)
 - [Smylez](https://github.com/Smylez)
